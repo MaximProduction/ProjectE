@@ -1,0 +1,40 @@
+.da{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.FooterCon{
+    background-color: #000000d3;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.FooterInsideBlock1{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.allWhite{
+    color: white;
+}
+.FooterInsideBlock2{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+.LastFootersIcons{
+    display: flex;
+    flex-direction: column;
+}
+.OnlyIconsCon{
+    display: flex;
+    gap: 10px;
+}
+.FooterImgs{
+    margin-right: 20px;
+}

@@ -1,0 +1,38 @@
+.FirstBlockContainer{
+    display:  flex;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+.ProjectName{
+    font-size: 80px;
+   
+    color: rgba(179, 198, 201, 0.577);
+    
+   
+}
+.ProjectHome{
+    font-weight: 700;
+    font-size: 60px;
+}
+.imageCon{
+    display:  flex;
+    flex-direction: column;
+}
+.ArrowCon{
+    display: flex;
+    gap: 20px;
+}
+.ButtonStyle{
+    border-radius: 1px;
+    padding: 10px;
+    
+}
+.HouseImg{
+    width: 709px;
+    height: 764px;
+}
+.Points{
+    font-size: 40px;
+    color: rgb(223, 223, 223);
+}

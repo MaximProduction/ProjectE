@@ -1,0 +1,19 @@
+.ThirdBlockContainer{
+   display: flex;
+   justify-content: space-around;
+
+}
+
+.ThirdBlockOneCon{
+    display: flex;
+   
+}
+.ThirdBlockText{
+    width: 275px;
+    font-size: 20px;
+}
+.OsnovnSadachi{
+    margin-left:200px ;
+    font-size: 50px;
+    color: rgb(214, 212, 212);
+}

@@ -1,0 +1,24 @@
+.FourthBlockCon{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-left:220px ;
+}
+.OurProjects{
+    margin-left: 225px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    color: rgb(151, 149, 149);
+}
+.OurButton{
+margin-left: 225px;
+margin-top: 40px;
+margin-bottom: 40px;
+
+
+}
+.OurButtonInside{
+    color: white;   
+    background-color: rgba(0, 0, 0, 0.609);
+    padding: 20px;
+}
